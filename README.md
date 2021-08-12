@@ -6,4 +6,4 @@ Technologies: Html Css
 
 Preview:
 <hr>
-<a href="https://ajhernandeza.github.io/Technical_Documentation_PagePassed/"><img alt="Preview" src="https://i.ibb.co/56XTQn7/Product-Landing-Page.png" width="500" height="320" /></a>
+<a href="https://ajhernandeza.github.io/Product_Landing_Page/"><img alt="Preview" src="https://i.ibb.co/56XTQn7/Product-Landing-Page.png" width="500" height="320" /></a>
